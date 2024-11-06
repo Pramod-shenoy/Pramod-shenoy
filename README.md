@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Springboot
 - 💞️ I’m looking to collaborate on Java Dev
 - 📫 How to reach me pramodshenoy04@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Pramod-shenoy/Pramod-shenoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
